@@ -6,10 +6,10 @@
   "publisher": "xwtf",
   "license": "SEE LICENSE IN LICENSE.txt",
   "icon": "images/vscode_extension_icon.png",
-  "homepage": "https://github.com/zxh0/vscode-proto3/blob/master/README.md",
+  "homepage": "https://github.com/xWTF/vscode-proto3/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zxh0/vscode-proto3"
+    "url": "https://github.com/xWTF/vscode-proto3"
   },
   "engines": {
     "vscode": "^1.75.0"
