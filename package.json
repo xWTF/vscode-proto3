@@ -1,9 +1,9 @@
 {
   "name": "vscode-proto3",
   "displayName": "vscode-proto3",
-  "description": "Protobuf 3 support for Visual Studio Code",
+  "description": "Protobuf 3 support for Visual Studio Code (Clean Archive)",
   "version": "0.5.6",
-  "publisher": "zxh404",
+  "publisher": "xwtf",
   "license": "SEE LICENSE IN LICENSE.txt",
   "icon": "images/vscode_extension_icon.png",
   "homepage": "https://github.com/zxh0/vscode-proto3/blob/master/README.md",
